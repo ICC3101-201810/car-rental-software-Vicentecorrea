@@ -1,0 +1,7 @@
+C:\Users\ING\Desktop\car-rental-software-exequielvial\Lab4VicenteCorrea\Lab4VicenteCorrea\obj\Debug\Lab4VicenteCorrea.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\car-rental-software-exequielvial\Lab4VicenteCorrea\Lab4VicenteCorrea\obj\Debug\Lab4VicenteCorrea.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\car-rental-software-exequielvial\Lab4VicenteCorrea\Lab4VicenteCorrea\bin\Debug\Lab4VicenteCorrea.exe.config
+C:\Users\ING\Desktop\car-rental-software-exequielvial\Lab4VicenteCorrea\Lab4VicenteCorrea\bin\Debug\Lab4VicenteCorrea.exe
+C:\Users\ING\Desktop\car-rental-software-exequielvial\Lab4VicenteCorrea\Lab4VicenteCorrea\bin\Debug\Lab4VicenteCorrea.pdb
+C:\Users\ING\Desktop\car-rental-software-exequielvial\Lab4VicenteCorrea\Lab4VicenteCorrea\obj\Debug\Lab4VicenteCorrea.exe
+C:\Users\ING\Desktop\car-rental-software-exequielvial\Lab4VicenteCorrea\Lab4VicenteCorrea\obj\Debug\Lab4VicenteCorrea.pdb
