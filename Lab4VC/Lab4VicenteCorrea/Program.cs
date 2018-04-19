@@ -18,6 +18,8 @@ namespace Lab4VicenteCorrea
             Persona persona1 = new Persona("Juan Perez", "LA");
             Institucion institucion1 = new Institucion("Institucion Maravillas", "AM");
 
+            // Probando subir cosas a GitHub
+
             persona1.ArrendarVehiculo(auto1);
             organizacion1.ArrendarVehiculo(retroexcavadora1);
             institucion1.ArrendarVehiculo(bus1);
